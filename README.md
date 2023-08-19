@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @venkatjp62
+- 👋 Hi, I’m @venky
 - 👀 I’m interested in Mern Stack
 - 🌱 I’m currently learning MERN STACK
 - 📫 How to reach me venkatjp62@gmail.com
